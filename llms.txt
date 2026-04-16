@@ -1,0 +1,35 @@
+# OpenClaw Setup
+
+> OpenClaw Setup is a done-for-you AI assistant deployment service. Get OpenClaw (open-source AI platform) running on your own infrastructure with full integration in under a week.
+
+OpenClaw is an open-source AI assistant platform that goes beyond chatbots - it reasons autonomously, runs complex workflows, connects to business tools, and operates 24/7 across messaging platforms.
+
+This site is for the setup service - not DIY. Jess Mason handles the full deployment including discovery, architecture, integration, security hardening, and training.
+
+## Main Page
+
+- / : Overview of OpenClaw setup service, what's included, pricing, and how to book
+
+## What's Included
+
+- Full OpenClaw deployment on dedicated Mac Mini or VPS
+- Integration with CRM, email, calendar, messaging (WhatsApp, Telegram, Slack, Discord)
+- Security hardening
+- Custom prompt engineering
+- Training and handoff
+- Ongoing support
+
+## Pricing
+
+Starting at $1,997 for barebones setup. Priced by the value of the role being replaced, not hours.
+
+## Related
+
+- OpenClaw Consultant: https://openclawconsultant.com - Full consulting services
+- NovaSoft AI: https://novasoftai.com - AI automation agency
+- YouTube: https://www.youtube.com/@JessAutomates - Free OpenClaw tutorials
+- Skool Community: https://www.skool.com/openclaw-mastery - Paid community ($49/month)
+
+## Contact
+
+Book a call: https://cal.com/jess-mason/openclaw-consultation
